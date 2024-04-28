@@ -6,3 +6,5 @@
 -->
 
 Nothing really to show here for now :)
+However I'm trying to battle my procrastination and become more active on Github.
+Anywayyy I'm always looking for new fun things to work on and this is intermittently a playground
